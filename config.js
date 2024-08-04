@@ -10,8 +10,8 @@ import moment from 'moment-timezone'
 //─────「 NUMEROS - OWNERS 」─────`*
 
 global.owner = [
-  ['5491126788746', 'JTxs', true],
-  ['51913091648', 'Gabriel Curi', true],
+  ['5493625494354⁩ ', 'Kiari', true],
+  ['5493536568522', 'Maxz', true],
   ['']
 
 ]
