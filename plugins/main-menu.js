@@ -14,18 +14,18 @@ let tags = {
 
 const defaultMenu = {
   before: `
-┌─᠂࣭. ⃝༘⃕🌸「 𝐈𝐍𝐅𝐎 𝐁𝐎𝐓 DEAT NOTE 」
-┃ *✦҈͜͡➳ Modo* : Público
-┃ *✦҈͜͡➳ Baileys* : Multi Device
-┃ *✦҈͜͡➳ Tiempo Activo* : %muptime
-┃ *✦҈͜͡➳ Usuarios* : %totalreg
+┌─ ᠂࣭. ⃝༘⃕🌸「 𝐈𝐍𝐅𝐎 𝐁𝐎𝐓 DEAT NOTE 」
+┃ * ✦҈͜͡➳ Modo* : Público
+┃ * ✦҈͜͡➳ Baileys* : Multi Device
+┃ * ✦҈͜͡➳ Tiempo Activo* : %muptime
+┃ * ✦҈͜͡➳ Usuarios* : %totalreg
 ╰─────────────
 %readmore
-┌─᠂࣭. ⃝༘⃕🌸「 𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑 」
-┃ *  ⃟ۣ❃ Nombre* : %name
-┃ *💸⃟ꦿ⸼ coins* : %limit
-┃ *  ⃟ۣ❃ Nivel* : %level
-┃ *  ⃟ۣ❃ XP* : %totalexp
+┌─ ᠂࣭. ⃝༘⃕🌸「 𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑 」
+┃ *   ⃟ۣ❃ Nombre* : %name
+┃ * 💸⃟ꦿ⸼ coins* : %limit
+┃ *   ⃟ۣ❃ Nivel* : %level
+┃ *   ⃟ۣ❃ XP* : %totalexp
 ╰─────────────
 %readmore
 \t\t\t
