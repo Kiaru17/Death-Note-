@@ -14,18 +14,18 @@ let tags = {
 
 const defaultMenu = {
   before: `
-┌─「 𝐈𝐍𝐅𝐎 𝐁𝐎𝐓 」
-┃ *⚙ Modo* : Público
-┃ *📚 Baileys* : Multi Device
-┃ *⏱ Tiempo Activo* : %muptime
-┃ *👤 Usuarios* : %totalreg
+┌─᠂࣭. ⃝༘⃕🌸「 𝐈𝐍𝐅𝐎 𝐁𝐎𝐓 DEAT NOTE 」
+┃ *✦҈͜͡➳ Modo* : Público
+┃ *✦҈͜͡➳ Baileys* : Multi Device
+┃ *✦҈͜͡➳ Tiempo Activo* : %muptime
+┃ *✦҈͜͡➳ Usuarios* : %totalreg
 ╰─────────────
 %readmore
-┌─「 𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑 」
-┃ *☁ Nombre* : %name
-┃ *💰 coins* : %limit
-┃ *📈 Nivel* : %level
-┃ *💫 XP* : %totalexp
+┌─᠂࣭. ⃝༘⃕🌸「 𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑 」
+┃ *  ⃟ۣ❃ Nombre* : %name
+┃ *💸⃟ꦿ⸼ coins* : %limit
+┃ *  ⃟ۣ❃ Nivel* : %level
+┃ *  ⃟ۣ❃ XP* : %totalexp
 ╰─────────────
 %readmore
 \t\t\t
@@ -146,7 +146,7 @@ let img = 'https://telegra.ph/file/3963a3844f79d5bf9ee2d.jpg'
    //await conn.sendSP(m.chat, botname, null, text.trim(), img, img, null, m)
 
   } catch (e) {
-    conn.reply(m.chat, '❎ Lo sentimos, el menú tiene un error.', m)
+    conn.reply(m.chat, '᠂࣭. ⃝༘⃕🌸 Lo sentimos, el menú tiene un error.', m)
     throw e
   }
 }
