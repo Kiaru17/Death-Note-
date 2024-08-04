@@ -28,7 +28,7 @@ global.author = '@ 2024 JTxs | All rigths reserved'
 
 global.botname = 'Sylpha - Bot'
 
-global.name_canal = '@ 2024 JTxs | All rigths reserved'
+global.name_canal = '⸵░⃟🌸𝐷𝑒𝑎𝑡ℎ 𝑁𝑜𝑡𝑒 𝐵𝑜𝑡 𝑂𝑓𝑖𝑐𝑖𝑎𝑙 𝑀𝐷⸵░⃟🌸'
 global.id_canal = '120363274577422945@newsletter'
 
 //─────「 IMAGENES 」─────`*
