@@ -24,7 +24,7 @@ global.prems = []
 //─────「 STICKERS | NOMBRES | CANAL 」─────`*
 
 global.packname = ``
-global.author = '@ 2024 JTxs | All rigths reserved'
+global.author = '⸵░⃟🌸𝐷𝑒𝑎𝑡ℎ 𝑁𝑜𝑡𝑒 𝐵𝑜𝑡 𝑂𝑓𝑖𝑐𝑖𝑎𝑙 𝑀𝐷⸵░⃟🌸'
 
 global.botname = 'Sylpha - Bot'
 
