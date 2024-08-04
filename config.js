@@ -42,7 +42,7 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 
 //─────「 LINKS 」─────`*
 
-global.canal = 'https://whatsapp.com/channel/0029VaeQcFXEFeXtNMHk0D0n'
+global.canal = 'https://whatsapp.com/channel/0029Vag2SImCRs1jnnA3Kp35'
 
 //─────「  OTROS 」─────`*
 
