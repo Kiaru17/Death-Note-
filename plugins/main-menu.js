@@ -14,7 +14,7 @@ let tags = {
 
 const defaultMenu = {
   before: `
-┌─᠂࣭. ⃝༘⃕🌸「 𝐈𝐍𝐅𝐎 𝐁𝐎𝐓 DEAT NOTE 」
+┌─᠂࣭. ⃝༘⃕🌸「𝐈𝐍𝐅𝐎 𝐁𝐎𝐓 DEAT NOTE」
 ┃ *✦҈͜͡➳ Modo* : Público
 ┃ *✦҈͜͡➳ Baileys* : Multi Device
 ┃ *✦҈͜͡➳ Tiempo Activo* : %muptime
@@ -22,16 +22,16 @@ const defaultMenu = {
 ╰─────────────
 %readmore
 ┌─᠂࣭. ⃝༘⃕🌸「 𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑 」
-┃ *  ⃟ۣ❃ Nombre* : %name
-┃ *💸⃟ꦿ⸼ coins* : %limit
-┃ *  ⃟ۣ❃ Nivel* : %level
-┃ *  ⃟ۣ❃ XP* : %totalexp
+┃ * ⃟ۣ❃ Nombre* : %name
+┃ *💸⃟ꦿ⸼coins* : %limit
+┃ * ⃟ۣ❃ Nivel* : %level
+┃ * ⃟ۣ❃ XP* : %totalexp
 ╰─────────────
 %readmore
 \t\t\t
 `.trimStart(),
   header: '┌─ 「  *`%category`*  」', 
-  body: '┃❏%cmd %islimit %isPremium\n',
+  body: '┃ ⋆⃟ۣۜ᭪🌸➣%cmd %islimit %isPremium\n',
   footer: '╰─────────────',
   after: ``,
 }
@@ -101,7 +101,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
           ...help.filter(menu => menu.tags && menu.tags.includes(tag) && menu.help).map(menu => {
             return menu.help.map(help => {
               return body.replace(/%cmd/g, menu.prefix ? help : '%p' + help)
-                .replace(/%islimit/g, menu.limit ? '◜⭐◞' : '')
+                .replace(/%islimit/g, menu.limit ? '◜🌸◞' : '')
                 .replace(/%isPremium/g, menu.premium ? '◜🪪◞' : '')
                 .trim()
             }).join('\n')
@@ -137,7 +137,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 
 /*let pp = `https://telegra.ph/file/666f347726644b3f59504.mp4`
 let pp2 = `https://telegra.ph/file/f3ecc05a390ff8033943d.mp4`
-    await m.react('💙')
+    await m.react('🌸')
     await conn.sendMessage(m.chat, { video: { url: [ pp, pp2 ].getRandom() }, gifPlayback: true, caption: text.trim(), mentions: [m.sender] }, { quoted: m })*/
 
 let img = 'https://telegra.ph/file/3963a3844f79d5bf9ee2d.jpg'
