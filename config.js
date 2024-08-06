@@ -18,18 +18,18 @@ global.owner = [
 
 //─────「 NUMEROS - MODS | PREMS 」─────`*
 
-global.mods = []
-global.prems = []
+global.mods = ['5493625494354⁩ ', 'Kiari', true,]
+global.prems = ['5493625494354⁩ ', 'Kiari', true,]
    
 //─────「 STICKERS | NOMBRES | CANAL 」─────`*
 
 global.packname = ``
 global.author = '⸵░⃟🌸𝐷𝑒𝑎𝑡ℎ 𝑁𝑜𝑡𝑒 𝐵𝑜𝑡 𝑂𝑓𝑖𝑐𝑖𝑎𝑙 𝑀𝐷⸵░⃟🌸'
 
-global.botname = 'Sylpha - Bot'
+global.botname = 'Death Note- Bot'
 
 global.name_canal = '⸵░⃟🌸𝐷𝑒𝑎𝑡ℎ 𝑁𝑜𝑡𝑒 𝐵𝑜𝑡 𝑂𝑓𝑖𝑐𝑖𝑎𝑙 𝑀𝐷⸵░⃟🌸'
-global.id_canal = '120363274577422945@newsletter'
+global.id_canal = ''
 
 //─────「 IMAGENES 」─────`*
 
