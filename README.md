@@ -1,4 +1,4 @@
-> `NOTA :` A las 20 estrellas los codigos ofuscados (encriptados) se desofuscaran (desencriptaran)
+> `NOTA :`A las 20 estrellas los codigos ofuscados (encriptados) se desofuscaran (desencriptaran)
 
 <h1 align="center">♡Death Note-MD♡</h1>
 <br>
